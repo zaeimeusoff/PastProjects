@@ -20,15 +20,15 @@ shinyServer(function(input, output){
                   "Taman Connaught","Taman Suntex","Sri Raya","Bandar Tun Hussein Onn",
                   "Batu 11 Cheras","Bukit Dukung","Sungai Jernih","Stadium Kajang","Kajang")
   
-  EstimatedTime <- read_csv("./Time.csv")
+  EstimatedTime <- read_csv("./dataset/Time.csv")
   EstimatedTime <- data.frame(EstimatedTime, row.names = 1)
   colnames(EstimatedTime) <- stationList
   
-  Routes <- read_csv("./Route.csv")
+  Routes <- read_csv("./dataset/Route.csv")
   Routes <- data.frame(Routes, row.names = 1)
   colnames(Routes) <- stationList
   
-  Fare <- read_csv("./Fare.csv")
+  Fare <- read_csv("./dataset/Fare.csv")
   Fare <- data.frame(Fare, row.names = 1)
   colnames(Fare) <- stationList
   
