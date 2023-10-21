@@ -6,7 +6,7 @@ A Shiny App named My RapidKL Train Scheduler which are useful for train journey 
 - Search for route,route fare and estimated time to reach destination.
 - View the documentation and extra information of RapidKL Services.
 
-![Rapid](/Images/MyRapidKL%20Train%20Scheduler.png)
+![Rapid](/Images/MyRapidKLTrainScheduler.png)
 
 ### Rpubs
 https://rpubs.com/nnmarjan/917672
