@@ -9,6 +9,7 @@ A Shiny App named My RapidKL Train Scheduler which are useful for train journey 
 ![Rapid](/Images/MyRapidKLTrainScheduler.png)
 
 ### Rpubs
-https://rpubs.com/nnmarjan/917672
+[https://rpubs.com/nnmarjan/917672](https://rpubs.com/nnmarjan/917672)
+
 ### Shiny App
-https://nnmarjan.shinyapps.io/MyRapidKLTrainScheduler/
+[https://nnmarjan.shinyapps.io/MyRapidKLTrainScheduler/](https://nnmarjan.shinyapps.io/MyRapidKLTrainScheduler/)
