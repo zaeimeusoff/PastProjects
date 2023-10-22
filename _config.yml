@@ -3,4 +3,4 @@ logo: /Images/dp.jpg
 description: 3rd year Data Science Student at University of Malaya
 description: I am a third-year data science student at the University of Malaya and I am passionate about the world of data and its potential to make better changes to the industry. My goal is to become a proficient data scientist, armed with a strong foundation in data analytics, machine learning, and statistical modeling. I am excited to leverage my skills and knowledge to solve complex problems and contribute to the data-driven future. I believe with my expertise, combined with my passion on data I can make a significant impact that helps the organization.
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
