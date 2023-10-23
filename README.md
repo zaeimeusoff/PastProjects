@@ -1,6 +1,6 @@
 # List of Projects
 
-## 1. Sea Level Predictor
+## 1. Sea Level Predictor [View on GitHub](https://github.com/zaeimeusoff/PastProjects/tree/main/Sea%20Level%20Predictor)
 Employed Pandas for dataset extraction and matplotlib for data visualization, I analyzed the global average sea level change since 1880. Utilizing the linregress function from scipy.stats, I predicted the sea level change through the year 2050. The project included tasks such as creating a scatter plot, plotting the line of best fit, and forecasting the sea level rise in 2050. Unit tests were integrated to ensure accuracy and reliability.
 
 
