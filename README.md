@@ -33,7 +33,7 @@ Python function that uses Numpy to output the mean, variance, standard deviation
 The input of the function should be a list containing 9 digits. The function should convert the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min, and sum along both axes and for the flattened matrix.
 
 
-## 6. Data Analysis : Maternity Mental Health Care - [View on GitHub](https://github.com/zaeimeusoff/PastProjects/tree/main)
+## 6. Data Analysis : Maternity Mental Health Care - [View on GitHub](https://github.com/zaeimeusoff/PastProjects/tree/main/Data%20Analysis%20(Maternity%20Mental%20Health%20Care))
 This data analysis project conducted to identify the factor(s) that contribute to mental health issues in peripartum women. Then we develop a prediction model for the early detection of maternal mental health issues. We used 3 machine learning algorithm(logistic regression, decision tree, and random forest) and we do a comparative analysis to compare and rank them based on their accuracy. For this project we carried out using Python, BigML, and SPSS Modelor to explore different approaches in handling the problem statement.
 
 
