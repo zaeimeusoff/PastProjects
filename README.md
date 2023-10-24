@@ -37,7 +37,7 @@ The input of the function should be a list containing 9 digits. The function sho
 This data analysis project conducted to identify the factor(s) that contribute to mental health issues in peripartum women. Then we develop a prediction model for the early detection of maternal mental health issues. We used 3 machine learning algorithm(logistic regression, decision tree, and random forest) and we do a comparative analysis to compare and rank them based on their accuracy. For this project we carried out using Python, BigML, and SPSS Modelor to explore different approaches in handling the problem statement.
 
 
-## 7. Data Analysis : Predicting Student Dropout Rates in Higher Education - [View on GitHub](https://github.com/zaeimeusoff/PastProjects/tree/main)
+## 7. Data Analysis : Predicting Student Dropout Rates in Higher Education - [View on GitHub](https://github.com/zaeimeusoff/PastProjects/tree/main/Data%20Analysis%20(Predicting%20Student%20Dropout%20Rates%20in%20Higher%20Education))
 This data analysis project conducted to identify the factors that contribute to student dropout rates in higher education and understand the correlation between the attributes better. Then we develop a predictive model that can identify students at risk of dropping out. The project is carried out using Python and R.
 
 
